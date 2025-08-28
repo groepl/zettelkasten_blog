@@ -1,2 +1,2 @@
 # zettelkasten_blog
-zettelkasten_blog
+Zettelkasten Blog
